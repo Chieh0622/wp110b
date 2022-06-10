@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="林弘杰"/>
+        <title>林弘杰的個人網站</title>
+    </head>
+
+    <body>
+        <h1>林弘杰的個人檔案</h1>
+        <hr>
+        <img src="IMG_0777.JPG" width="300"/>
+        <h2>簡介</h2>
+        <div>
+            2003/06/22 巨蟹座 性別男<br/>
+            現就讀於國立金門大學 資訊工程學系一年級 <br/>
+            學號 : 111010515 <br/>
+            <p><b>聯絡方式</b></p> 
+            電話 : 0972273029 <br/>
+            Line : 0972273029 <br/>
+            Facebook : 林弘杰 <br/>
+            Instgram : Chieh_622 <br/>
+            Email : willy98172@gmail.com <br/>
+        </div>
+        <h3>求學經歷</h3>
+        <div>
+            大甲國小 → 日南國中 → 大甲高中 → 國立金門大學
+        </div>
+    </body>
+</html>
