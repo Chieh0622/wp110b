@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="林弘杰"/>
+        <title>林弘杰的個人網站</title>
+    </head>
+    <body>
+        <style>
+            body
+            {
+                text-align: center;
+                color: white;
+                font-size: 20px;
+                background-color: rgb(28, 147, 187);
+            }
+        </style>
+
+        <div style=" height: 400px;background-size: cover;background-position: 50% 60%;background-image:url(https://cutewallpaper.org/23/imgur-anime-wallpaper/832311303.jpg);">
+            <h1 style="font-size: 50px;color: gold">林弘杰的個人檔案</h1>
+            <br/>
+            <img style="border-radius: 50%;" alt="Avatar" src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t39.30808-6/287267844_5223554980998676_7790645982392488942_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=PvekJsj4ad0AX_O3klA&_nc_ht=scontent.fkhh1-2.fna&oh=00_AT-OYCtvMuVb8_oA1wt38Ed6bXEt_8vdy2BfbQPUg5MR0A&oe=62A7F684" width="300"/>
+        </div>
+        <div>
+            <br/>            
+            <h1>林弘杰</h1>
+            <hr/>
+            <div>
+                <b style="font-size: 30px">簡介</b>
+                <br/><br/>
+                2003.06.22 巨蟹座 性別男<br/>
+                現就讀於國立金門大學 資訊工程學系一年級 <br/>
+                學號 : 111010515 <br/>
+            </div>
+            <hr/>
+            <div>
+                <b style="font-size: 30px">聯絡方式</b>
+                <br/><br/>
+                <table style="width: 100%;">
+                    <tr>
+                        <th>Phone</th>
+                        <th>Line</th>
+                        <th>Email</th>
+                        <th>Facebook</th>
+                        <th>Instgram</th>
+                    </tr>
+
+                    <tr>
+                        <td>0972273029</td>
+                        <td>0972273029</td>
+                        <td><a href="mailto:willy98172@gmail.com">willy98172@gmail.com</a></td>
+                        <td><a href="https://www.facebook.com/profile.php?id=100000326778422">林弘杰</a></td>
+                        <td><a href="https://www.instagram.com/chieh_622/">chieh_622</a></td>
+                    </tr>
+                </table>               
+            </div>
+            <hr/>
+            <div>
+                <b style="font-size: 30px">求學歷程</b>
+                <br/><br/>
+                <table style="width: 100%;">
+                    <tr>
+                        <th>國小</th>
+                        <th>國中</th>
+                        <th>高中</th>
+                        <th>大學</th>
+                    </tr>
+                    <tr>
+                        <td>大甲國小</td>
+                        <td>日南國中</td>
+                        <td>大甲高中</td>
+                        <td>國立金門大學</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
