@@ -6,10 +6,10 @@ function is_prime(num)
     }
     return true;
 }
-console.log(is_prime(47));
-console.log(is_prime(69));
-console.log(is_prime(97));
+console.log("isPrime(47) => " + is_prime(47));
+console.log("isPrime(69) => " + is_prime(69));
+console.log("isPrime(97) => " + is_prime(97));
 
-//true
-//slase
-//true
+//isPrime(47) => true
+//isPrime(69) => false
+//isPrime(97) => true
