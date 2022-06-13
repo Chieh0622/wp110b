@@ -1,0 +1,27 @@
+#clock
+{
+  color:black;
+  font: 60px sans-serif; 
+  background: rgb(253, 186, 134); 
+  margin: 5px;
+  padding: 5px;
+  border: solid gray 2px; 
+  border-radius: 15px;
+  width: 250px;
+  text-align:center;
+}
+
+body
+{
+  background-color: pink;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+
+p
+{
+  font-size: 60px;
+  color: darkblue;
+}
