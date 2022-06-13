@@ -5,3 +5,5 @@ function factorial(num)
     return ans;
 }
 console.log(factorial(6));
+
+//720
