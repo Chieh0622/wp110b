@@ -13,7 +13,9 @@
 
 body
 {
-  background-color: pink;
+  background-image: url(https://cutewallpaper.org/23/imgur-anime-wallpaper/832311303.jpg);
+  background-size: cover ;
+  background-repeat: no-repeat;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -23,5 +25,5 @@ body
 p
 {
   font-size: 60px;
-  color: darkblue;
+  color: whitesmoke;
 }
