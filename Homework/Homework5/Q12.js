@@ -20,7 +20,6 @@ class Ratio
     {
         return this.a * x.b - this.b * x.a + "/" + this.b * x.b;
     }
-
 }
 var r1 = new Ratio(1, 5), r2 = new Ratio(3, 4); 
 var r3 = r1.add(r2); 
