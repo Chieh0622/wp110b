@@ -14,4 +14,4 @@ class Ratio
 var r1 = new Ratio(1, 5);
 console.log(r1.tostring());
 
-//1/5
+// 1/5
