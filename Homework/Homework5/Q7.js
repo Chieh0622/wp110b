@@ -12,6 +12,6 @@ function transpose(array)
     return arr;
 }
 
-console.log(transpose([[1,2,3], [3,2,1]]));
+console.log(transpose([[ 3, 2, 1 ], [ 1, 2, 3 ]]));
 
-//[ [ 1, 3 ], [ 2, 2 ], [ 3, 1 ] ]
+//[ [ 3, 1 ], [ 2, 2 ], [ 1, 3 ] ]
