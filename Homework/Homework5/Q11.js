@@ -8,7 +8,7 @@ class Ratio
 
     tostring ()
     {
-        return this.a + '/' + this.b;
+        return this.a + "/" + this.b;
     }
 }
 var r1 = new Ratio(1, 5);
